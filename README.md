@@ -6,10 +6,10 @@ Software developer junior
 
 I am a university student with experience in different programming languages.
 
-* 🌍  I'm based in Nicaragua
-* ✉️  You can contact me at [jrios9826@gmail.com](mailto:jrios9826@gmail.com)
-* 🧠  I'm learning Node js y php
-* 🤝  I'm open to collaborating on In all types of projects, both web and desktop
+* 🌍  I'm based in Nicaragua.
+* ✉️  You can contact me at [jrios9826@gmail.com](mailto:jrios9826@gmail.com).
+* 🧠  I'm learning Node js y php.
+* 🤝  I'm open to collaborating on In all types of projects, both web and desktop.
 
 ### Skills
 
