@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software developer junior
 -------------------------
 
-My experience as a software developer begins with small projects in different programming languages. My favorite language is JAVA
+I am a university student with experience in different programming languages.
 
 * 🌍  I'm based in Nicaragua
 * ✉️  You can contact me at [jrios9826@gmail.com](mailto:jrios9826@gmail.com)
