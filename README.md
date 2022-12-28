@@ -1,37 +1,27 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Juan Jose Rios Huete
-============================================================================================================================================
+<h1 align="center">Hola 👋, soy Juan Jose Rios Huete</h1>
+<h3 align="center">Estudiante de ingenieria en sistema.</h3>
 
-Software developer junior
--------------------------
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juanjose23&label=Profile%20views&color=0e75b6&style=flat" alt="juanjose23" /> </p>
 
-I am a university student with experience in different programming languages.
+<p align="left"> <a href=" https://github.com/ryo-ma/github-profile-trofeo"><img src="https://github-perfil-trofeo.vercel.app/?username=juanjose23" alt="juanjose23" /> </a> </p>
 
-* 🌍  I'm based in Nicaragua.
-* ✉️  You can contact me at [jrios9826@gmail.com](mailto:jrios9826@gmail.com).
-* 🧠  I'm learning Node js y php.
-* 🤝  I'm open to collaborating on In all types of projects, both web and desktop.
+- 🌱 Actualmente estoy aprendiendo **Reactjs**
 
-### Skills
+- 💬 Pregúntame sobre **Java, Php**
 
+- 📫 Cómo contactarme **jrios9836@gmail.com**
+
+- ⚡ Dato curioso **la programación me da inspiración**
+
+<h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
+<a href="https://twitter.com/juan65010138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/twitter.svg" alt="juan65010138" height="30" width="40" /></a>
+<a href="https://linkedin.com/in /https://www.linkedin.com/en/juan-jose-rios-huete-615b60168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/ rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-jose-rios-huete -615b60168/" alto="30" ancho="40" /></a>
+</p>
 
+<h3 alinear="left">Idiomas y herramientas:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon /master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com /css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt= "css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href=" https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt=" matraz" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src=" https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href=" https://www.w3.org/html/"target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" ancho ="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> < img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="ilustrador" width="40" height="40"/> </a> <a href=" https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www. linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt=" linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/ php-original.svg" alt="php" ancho="40" altura="40"/> </a> <a href="https://www.python.org" target="_blank" rel=" noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/ > </a> </p>alt="php" ancho="40" altura="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> < /p>alt="php" ancho="40" altura="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> < /p>/a> </p>/a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanjose23&show_icons=true&locale=en&layout=compact" alt="juanjose23" /> </p>
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/juanjose23" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/juan_huete23" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Juan65010138" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/juanjose23"><img src="https://github-readme-stats.vercel.app/api?username=juanjose23&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="juanjose23's GitHub stats" /></a>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=juanjose23&show_icons=true&locale=en" alt="juanjose23" /> </p>
