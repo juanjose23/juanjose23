@@ -6,9 +6,13 @@ Estudiante de ingeneria de sistema.
 
 Soy un apasionado de la programación y la tecnología en general. Me encanta crear soluciones eficientes y efectivas para los desafíos que se presentan, y me siento cómodo trabajando con varios lenguajes de programación y tecnologías. En mi tiempo libre, disfruto aprendiendo sobre nuevas tecnologías y aplicaciones, y explorando nuevas formas de abordar problemas complejos. Siempre estoy buscando colaborar con otros programadores y aprender de ellos, y estoy emocionado de contribuir al mundo del código abierto a través de GitHub. ¡Gracias por visitar mi perfil!
 
-*   🌍  I'm based in Managua,Nicaragua
-*   ✉️  You can contact me at [jrios9836@gmail.con](mailto:jrios9836@gmail.con)
-*   🧠  I'm learning Aprendiendo Reactjs### Skills 
+* 🌍  I'm based in Managua,Nicaragua
+* ✉️  You can contact me at [jrios9836@gmail.con](mailto:jrios9836@gmail.con)
+* 🧠  I'm learning Aprendiendo Reactjs
+
+### Skills
+
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -20,17 +24,16 @@ Soy un apasionado de la programación y la tecnología en general. Me encanta cr
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.facebook.com/huete.jose.58118774" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/juan052" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/juan_huete23" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/@Juan65010138" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/juan052"><img src="https://github-readme-stats.vercel.app/api?username=juan052&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="juan052's GitHub stats" /></a><a href="https://github.com/juan052" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan052&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.facebook.com/huete.jose.58118774" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/juan052" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/juan_huete23" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/@Juan65010138" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/juan052"><img src="https://github-readme-stats.vercel.app/api?username=juan052&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="juan052's GitHub stats" /></a>
+
+<a href="https://github.com/juan052" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan052&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
