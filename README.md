@@ -1,5 +1,5 @@
 # 💫 Acerca de mi:
-🔭 Estudiante de ingeneria de sistema<br>🌱 Actualmente estoy aprendiendo js y react js<br>💬 Pregúntame sobre php y flask<br>⚡ Dato curioso En GitHub, mi código baila al ritmo de los commits y las ramas, creando una sinfonía de innovación y colaboración.
+🔭 Estudiante de ingeneria de sistema<br>🌱 Actualmente estoy aprendiendo js y react js<br>💬 Pregúntame sobre php y flask<br>
 
 
 ## 🌐 Redes sociales:
